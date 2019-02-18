@@ -80,7 +80,7 @@ dst = np.float32([src[0]+offset,new_top_left+offset,new_top_right-offset ,src[3]
 
 ### Pipeline (video)
 1. Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fyuWsxlS6zc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fyuWsxlS6zc/0.jpg)](http://www.youtube.com/watch?v=fyuWsxlS6zc)
 
 ### Discussion
 1. Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?
